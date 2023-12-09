@@ -14,6 +14,8 @@ Based on the "Lift Splat Shoot" BEV segmentation model, train lift_splat model w
 Comparing the performance of lift_splat_adpat model and lift_splat model on target domain (NuScene) to certificate the base theory, "domain adaption", is a way to implement Sim2Real.
 
 ## Project Result
+- lift-splat model: https://drive.google.com/file/d/1wffumYyAfn_brq2O2dLMcCCZHNqBLNAY/view?usp=sharing
+- oracle model: https://drive.google.com/file/d/1LopHcfHabsJ0Fah_SLTdgxFAf7JE5leY/view?usp=sharing
 
 ## Project Analysis
 
